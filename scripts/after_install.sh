@@ -1,4 +1,3 @@
 #!/bin/sh
-sudo su
-cd ~/demo
+cd /var/www/demo
 npm install
